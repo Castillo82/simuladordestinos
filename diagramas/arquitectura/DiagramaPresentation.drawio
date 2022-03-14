@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T22:18:25.718Z" agent="5.0 (Windows)" etag="d3-NZz3EymSpSP4d51FD" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T22:36:13.622Z" agent="5.0 (Windows)" etag="Hj4ona9U2jNWIFSOfCDA" version="17.1.2" type="github">
   <diagram id="AxkOQcfwC_eE_syWc4v8" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="QQFFvae5NlyF0eOOkwyp-2" value="&lt;&lt;component&gt;&gt;&#xa;AdministrationController" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="50" y="570" width="300" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="QQFFvae5NlyF0eOOkwyp-3" value="&lt;&lt;component&gt;&gt;&#xa;AuthenticationViews" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="QQFFvae5NlyF0eOOkwyp-3" value="&lt;&lt;component&gt;&gt;&#xa;AdministrationViews" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="450" y="570" width="270" height="580" as="geometry" />
         </mxCell>
         <mxCell id="QQFFvae5NlyF0eOOkwyp-4" value="&amp;lt;&amp;lt;view&amp;gt;&amp;gt;&lt;br&gt;&amp;lt;&amp;lt;html&amp;gt;&amp;gt;&lt;br&gt;listadoGrupos" style="html=1;" vertex="1" parent="1">
